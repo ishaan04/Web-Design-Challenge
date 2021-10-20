@@ -1,3 +1,5 @@
+PAGE PUBLISHED - OPEN HERE: https://ishaan04.github.io/Web-Design-Challenge/
+
 # Web Design Homework - Web Visualisation Dashboard (Latitude)
 
 ## Background
